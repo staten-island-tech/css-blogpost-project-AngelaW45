@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(142, 140, 250);
+    background-color: rgb(179, 150, 248);
 
     font-size: 20px;
 }
@@ -27,8 +27,14 @@ body{
 
 .list{
     text-align: center;
-    background-color: rgb(223, 189, 255);
     font-size: 24px;
+    line-height: 45px;
+}
+
+.box{
+    text-align: left;
+    font-size: 22px;
+    background-color: rgb(223, 189, 255);
     width: 34vw;
     padding: 10px;
     margin: 50px auto;
@@ -36,7 +42,6 @@ body{
     line-height: 50px;
 }
 
-.title{
-font-size: 35;
-
+.Javascript{
+    width: 50vw;
 }
