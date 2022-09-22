@@ -37,17 +37,18 @@ ol {
   margin-top: 20px 10px;
 }
 
-.box {
+.div {
   text-align: left;
   font-size: 22px;
   background-color: rgb(223, 189, 255);
-  width: 34vw;
-  padding: 10px;
+  width: 36vw;
+  padding: 10px 30px 10px 0px;
   margin: 50px auto;
   border-radius: 20px;
   line-height: 50px;
 }
 
 img {
-  width: auto;
+  width: 350px;
+  margin: 8px 25px auto;
 }
